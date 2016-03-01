@@ -52,7 +52,6 @@ spa.shell = (function(){
     // 为jquery事件处理函数保留区块
     //----------- End Event Handlers   -----------
 
-
     //----------- Begin Public Methods   -----------
     // 公开方法放在这里
     initModule = function($container){
